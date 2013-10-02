@@ -1,3 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<session version="1.0">&#x0A;<refactoring comment="Rename resource &apos;EbayApp&apos; to &apos;StoreApp&apos;" description="Rename resource &apos;EbayApp&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="/EbayApp" name="StoreApp" stamp="1379878231971" updateReferences="true"/>&#x0A;<refactoring comment="Delete resource &apos;StoreApp/appjs/product&apos;" deleteContents="false" description="Delete resource &apos;StoreApp/appjs/product&apos;" element1="/StoreApp/appjs/product" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1379878318121"/>
-</session>
